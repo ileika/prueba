@@ -13,6 +13,8 @@ int main()
 	cin >> b;
 
 	cout << "El resultado de la suma es : " << a + b;
+	cout << " Division : " << a / b;
+	cout << "multiplicacion : " << a * b;
 
 	return 0;
 }
